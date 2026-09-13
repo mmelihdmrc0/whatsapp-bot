@@ -5,7 +5,7 @@
     app = Flask(__name__)
 
     # WAHA Ayarları
-    WAHA_URL = "https://VERDİĞİ_LİNK.serveousercontent.net/api/sendText"
+    WAHA_URL = "https://5a98e7fe12911dcb-78-190-153-51.serveousercontent.com"
     HEADERS = {
         'Content-Type': 'application/json',
         'X-Api-Key': 'patronbenim'
