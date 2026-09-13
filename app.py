@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 
 # WAHA Ayarları (Endpoint /api/sendText eklendi)
-WAHA_URL = "https://a9bc872877d25c39-78-190-153-51.serveousercontent.com"
+WAHA_URL = "https://c8c9865ab1b6b904-78-190-153-51.serveousercontent.com"
 HEADERS = {
     'Content-Type': 'application/json',
     'X-Api-Key': 'patronbenim'
